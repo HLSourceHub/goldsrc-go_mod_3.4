@@ -1,0 +1,57 @@
+// 800x600 text scheme file
+
+// DEFAULT BUTTON TEXT
+SchemeName = "Primary Button Text"
+FontName = "Verdana"
+FontSize = 20
+FgColor = "178 184 255 255"
+BgColor = "0 0 0 141"
+FgColorArmed = "255 255 255 255"
+BgColorArmed = "178 184 255 67"
+
+// COMMAND MENU TEXT
+SchemeName = "CommandMenu Text"
+FontName = "Verdana"
+FontSize = 17
+FgColor = "178 184 255 255"
+BgColor = "0 0 0 141"
+FgColorArmed = "255 255 255 255"
+BgColorArmed = "178 184 255 67"
+
+// SCOREBOARD TEXT
+SchemeName = "Scoreboard Text"
+FontName = "Verdana"
+FontSize = 20
+FontWeight = 0
+
+// SCOREBOARD TITLE TEXT (team names, team scores)
+SchemeName = "Scoreboard Title Text"
+FontName = "Verdana"
+FontSize = 20
+FontWeight = 700
+
+// SCOREBOARD SMALL TEXT (headers, player #)
+SchemeName = "Scoreboard Small Text"
+FontName = "Verdana"
+FontSize = 40
+FontWeight = 0
+
+// TITLE FONT in TFC selection menus
+SchemeName = "Title Font"
+FontName = "Verdana"
+FontSize = 26
+FgColor = "178 184 255 255"
+
+// CLASSDESC, MAPDESC, MOTD text windows
+SchemeName = "Briefing Text"
+FontName = "Verdana"
+FontSize = 15
+FontWeight = 0
+FgColor = "178 184 255 255"
+
+// Team info text (list of players, etc)
+// fgColor is automatically set to the teams color
+SchemeName = "Team Info Text"
+FontName = "Verdana"
+FontSize = 15
+FontWeight = 0

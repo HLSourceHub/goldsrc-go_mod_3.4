@@ -1,0 +1,1 @@
+hl.exe -game gomod -num_edicts 2048 -console

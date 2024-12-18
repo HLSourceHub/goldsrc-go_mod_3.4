@@ -1,0 +1,48 @@
+// Go-Mod 3 Command Menu
+// edited by Ranger366
+
+"1" "Go-Mod Menu" "vguimenu 52"	
+"2" "Chat >"	
+{
+"1" "Hello" "say Hello!"
+"2" "Bye" "say bye"
+"3" "afk"	"say afk"
+"4" "lol"	"say lol!"
+"5" "W00t!"	"say w00t!"
+"6" "rofl"	"say rofl"
+"7" "omfg"	"say omfg"
+"8" "O RLY"	"say O RLY"
+"9" "SRSLY"	"say SRSLY"
+}
+"3" "Voice Commands >"	
+{
+	"1" "Barney >"	
+	{
+	"1" "Better Together" "voice9_say"
+	"2" "Im with you" "voice10_say"
+	"3" "Team up"	"voice11_say"
+	"4" "Glad to lend hand"	"voice12_say"
+	"5" "Lets go"	"voice13_say"
+	"6" "Lets move it"	"voice14_say"
+	"7" "Help others"	"voice15_say"
+	"8" "I will wait here"	"voice16_say"
+	"9" "Slowing you down"	"voice17_say"
+	"10" "Ill will wait"	"voice18_say"
+	"11" "See ya"	"voice19_say"
+	"12" "Standing Guard"	"voice20_say"
+	}
+		"2" "Random >"	
+		{
+		"1" "Hey!" "voice1_say"
+		"2" "Yo!" "voice2_say"
+		"3" "There he is!"	"voice3_say"
+		"4" "Target located!"	"voice4_say"
+		"5" "What the...!"	"voice5_say"
+		"6" "Go go go!"	"voice6_say"
+		"7" "(Female Fire Death Scream)"	"voice7_say"
+		"8" "(Male Fire Death Scream)"	"voice8_say"
+		}
+}
+"4" "Message of the Day" "vguimenu 5"
+"5" "Map Info" "vguimenu 4"
+"0" "Close" "ForceCloseCommandMenu"

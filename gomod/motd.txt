@@ -1,0 +1,9 @@
+Welcome to Go-Mod 3.0!
+Press Q to open the main menu.
+You can change it in your Settings.
+
+You can change for your Server this MOTD
+in the motd.txt File in your gomod
+folder.
+
+Have fun!
